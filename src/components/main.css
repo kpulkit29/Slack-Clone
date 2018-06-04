@@ -1,0 +1,38 @@
+.container{
+    display: block;
+    margin:auto;
+    width:50%;
+    padding: 5px;
+    height:200px;
+    margin-top: 10%;
+    border: 1px solid black;
+    box-shadow: 0.5px 0.5px 1px 1px;
+}
+.container form{
+    display: block;
+    margin:auto;
+    width:80%;
+    padding: 5px;
+}
+.Thisinput{
+    color:"inherit";
+    outline: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+    width:100%;
+    display: block;
+    margin:auto;
+    font-size: 16px;
+}
+.Thisbutton{
+    border: 1px solid black;
+    color:black;
+    padding:5px;
+    display: block;
+    margin:auto ;
+    height:30px;
+    width:40%;
+    font-size: 16px;
+    margin-top:20px;
+    cursor: pointer;
+}
